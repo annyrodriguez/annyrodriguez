@@ -2,7 +2,8 @@
 - 👀 Computational Epidemiologist & Data Science Enthusiast.
 - 🌱 Assistant Professor at Morehouse School of Medicine's Department of Public Health Education.
 - 💞️ I’m looking to collaborate on data visualization projects.
-- 📫 You can reach me via email at annydrodriguez7@gmail.com. 
+- 📫 You can reach me via email at annydrodriguez7@gmail.com.
+- 👀 Check out my Quarto Website: https://annyrodriguez.github.io/anny-website/
 
 - ✨ Research focus: cancer epidemiology & AI/ML integration.
 - ✨ Improving data visualizations for the greater good - everyone should be able to understand graphics.
